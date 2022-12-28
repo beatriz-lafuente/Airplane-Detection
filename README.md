@@ -17,14 +17,6 @@
 # Introduction
 In this project I use a dataset of 18 images containning one or more airplanes. The goal is to use a CNN that can identify these airplanes and create a rectangle around their position. This is a problem of object detection, these CNN's are hard to train, that's why in this example I will used a pre-trained CNN for object detection, in this case MobileNet, know for being a light-weighted neuronal network.
 
-<ol style="font-size: 18px; font-family: Times; text-align: justify; line-height: 24px;">
-    <li>Image Collection</li>
-    <li>Create Ground Truth (LabelImage)</li>
-    <li>Detect the objects (MobileNet)</li>
-    <li>Calculate the IoU</li>
-    <li>Calculate the precision and recall</li>
-</ol>
-
 # Workflow
 
 ## Image Collection
