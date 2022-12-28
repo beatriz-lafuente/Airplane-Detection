@@ -1,5 +1,5 @@
 <p align="center">
- <img width="400px" src="https://github.com/beatriz-lafuente/AirplaneDetection/blob/main/images/plane1.jpg" align="center" alt="Computer Vision: Airplane Detection" />
+ <img width="900px" src="https://github.com/beatriz-lafuente/AirplaneDetection/blob/main/images/plane1.jpg" align="center" alt="Computer Vision: Airplane Detection" />
  <h2 align="center">Computer Vision: Airplane Detection</h2>
  <p align="center">The goal of this project is to use a CNN that can identify airplanes and create a rectangle around their position.</p>
 
@@ -19,10 +19,14 @@ In this project I use a dataset of 18 images containning one or more airplanes. 
 
 # Workflow
 
+<p align="center">
+ <img width="800px" src="https://user-images.githubusercontent.com/121397357/209863857-bf04192a-4e59-4373-ac39-79dda1ae9428.png" align="center" />
+
 ## Image Collection
 The first step of this script is to gather the 18 images, that were extracted from the internet. After the image collection phase, some of the collected images are shown bellow. It is possible to see that the images contain different number and types of airplanes.
 
-![avioes](https://user-images.githubusercontent.com/121397357/209855221-1081fb63-8c3e-47ad-a757-c7d29ed3498e.png)
+<p align="center">
+ <img width="600px" src="https://user-images.githubusercontent.com/121397357/209855221-1081fb63-8c3e-47ad-a757-c7d29ed3498e.png" align="center" />
 
 ## Create Ground Truth
 In this second phase, imageLabel is used to draw rectangles around the objects to detect, and save their "coordinates" into a XML file. 
