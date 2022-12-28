@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Imagens</folder>
+	<filename>aviao 8.jpg</filename>
+	<path>C:\Users\sarro\ISCTE\Cadeiras\PGCD\1st semester\Computer Vision\challenges\challenge6\imagens_desafio6\trabalho_VC_7\Imagens\aviao 8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1079</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>airplane</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>420</xmin>
+			<ymin>383</ymin>
+			<xmax>951</xmax>
+			<ymax>960</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>airplane</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>974</xmin>
+			<ymin>64</ymin>
+			<xmax>1499</xmax>
+			<ymax>648</ymax>
+		</bndbox>
+	</object>
+</annotation>

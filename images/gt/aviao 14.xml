@@ -1,0 +1,26 @@
+<annotation>
+	<folder>normal</folder>
+	<filename>aviao 14.jpg</filename>
+	<path>C:\Users\sarro\ISCTE\Cadeiras\PGCD\1st semester\Computer Vision\challenges\challenge6\images\normal\aviao 14.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2364</width>
+		<height>2364</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>airplane</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>528</ymin>
+			<xmax>2334</xmax>
+			<ymax>1570</ymax>
+		</bndbox>
+	</object>
+</annotation>

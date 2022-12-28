@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Imagens</folder>
+	<filename>aviao 5.png</filename>
+	<path>C:\Users\sarro\ISCTE\Cadeiras\PGCD\1st semester\Computer Vision\challenges\challenge6\imagens_desafio6\trabalho_VC_7\Imagens\aviao 5.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>949</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>airplane</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>54</xmin>
+			<ymin>39</ymin>
+			<xmax>947</xmax>
+			<ymax>497</ymax>
+		</bndbox>
+	</object>
+</annotation>
